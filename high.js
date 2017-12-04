@@ -1,6 +1,6 @@
 /*
 	NOTE: 
-	All callback fnctions in this code are written 
+	All callback functions in this code are written 
 	as an anonymous function.
 */
 
